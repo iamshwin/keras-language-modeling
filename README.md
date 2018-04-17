@@ -1,6 +1,6 @@
 # keras-language-modeling
 
-Some code for doing language modeling with Keras, in particular for question-answering tasks. Forked from the blog/code [here](http://benjaminbolte.com/blog/2016/keras-language-modeling.html).
+Some code for doing language modeling with Keras, in particular for question-answering tasks. Forked from the blog/code [here](https://codekansas.github.io/blog/2016/language.html).
 
 ### Getting started 
 
