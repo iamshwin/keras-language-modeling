@@ -44,7 +44,7 @@ logger.info('running %s' % ' '.join(sys.argv))
 
 # imports go down here because they are time-consuming
 from gensim.models import Word2Vec
-from keras_models import *
+from models.cnn import ConvolutionModel
 
 vocab = load(data_path, 'vocabulary')
 

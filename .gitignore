@@ -1,7 +1,8 @@
 # data / models (also potentially very large)
 data/
-models/
-models
+saved_models/
+saved_models
+__pycache__
 treq_eval*
 
 # pyc files aren't necessary
